@@ -1,0 +1,6 @@
+.idea
+node_modules
+logs
+config/*.*
+!config/default.*
+deploy

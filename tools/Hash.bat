@@ -1,0 +1,1 @@
+"BarbarianLand Assets Hasher.exe" ../Patchs/gamefiles ../Patchs ../gamefiles *.*
