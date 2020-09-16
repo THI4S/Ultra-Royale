@@ -34,7 +34,7 @@ mongooseInstance.connect(isSuccess => {
                             handleClient(client);
                         }
                         else {
-                            console.log('A blacklisted device tried to connect to the server [', this.ip, ']');
+                            console.log('A banned user tried to connect to the server [', this.ip, ']');
                             client.end();
                         }
                     });
