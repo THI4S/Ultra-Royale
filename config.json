@@ -26,7 +26,7 @@
     "player": {
         "startingName": "CRServer",
         "startWithAllZero": false,
-        "startingTrophies": 5200,
+        "startingTrophies": 4000,
         "startingLevel": 13,
         "startingXP": 100,
         "startingResources": {
