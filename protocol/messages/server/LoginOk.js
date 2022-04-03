@@ -39,7 +39,7 @@ module.exports = class LoginOk extends Processor {
         this.data.writeRrsInt32(115500);
         this.data.writeRrsInt32(2);
         this.data.writeIString(global.config.server.gameAssetsUrl);//City
-        this.data.writeIString('https://99faf1e355c749a9a049-2a63f4436c967aa7d355061bd0d924a1.ssl.cf1.rackcdn.com');//Country code
+        this.data.writeIString('https://game-assets.clashroyaleapp.com');//Country code
         this.data.writeRrsInt32(1);
         this.data.writeIString(global.config.server.eventAssetsUrl);
     }
