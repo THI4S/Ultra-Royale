@@ -36,7 +36,8 @@
     },
     "database": {
         "name": "urdb",
-        "host": "localhost",
-        "password": null
+        "host": "mongodb+srv://root:root@cluster0.euts0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "user": "root",
+        "password": "root"
     }
 }
