@@ -1,5 +1,5 @@
 ## Clash Royale Server
-Version Of Clash Royale - 2.3.1
+Version Of Clash Royale - 2.1.x
 
 Running
 
